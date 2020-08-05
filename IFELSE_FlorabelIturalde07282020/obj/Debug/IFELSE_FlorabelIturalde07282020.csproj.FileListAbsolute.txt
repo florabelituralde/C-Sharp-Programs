@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\bin\Debug\IFELSE_FlorabelIturalde07282020.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\bin\Debug\IFELSE_FlorabelIturalde07282020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\bin\Debug\IFELSE_FlorabelIturalde07282020.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\obj\Debug\IFELSE_FlorabelIturalde07282020.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\obj\Debug\IFELSE_FlorabelIturalde07282020.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\obj\Debug\IFELSE_FlorabelIturalde07282020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\IFELSE_FlorabelIturalde07282020\obj\Debug\IFELSE_FlorabelIturalde07282020.pdb

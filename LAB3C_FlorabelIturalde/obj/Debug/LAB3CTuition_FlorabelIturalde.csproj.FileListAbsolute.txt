@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\bin\Debug\LAB3C_FlorabelIturalde.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\bin\Debug\LAB3C_FlorabelIturalde.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\bin\Debug\LAB3C_FlorabelIturalde.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\obj\Debug\LAB3CTuition_FlorabelIturalde.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\obj\Debug\LAB3CTuition_FlorabelIturalde.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\obj\Debug\LAB3C_FlorabelIturalde.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3C_FlorabelIturalde\obj\Debug\LAB3C_FlorabelIturalde.pdb

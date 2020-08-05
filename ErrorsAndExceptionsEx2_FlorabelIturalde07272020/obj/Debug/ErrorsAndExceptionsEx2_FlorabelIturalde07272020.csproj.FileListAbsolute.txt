@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\bin\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\bin\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\bin\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\obj\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\obj\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\obj\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\ErrorsAndExceptionsEx2_FlorabelIturalde07272020\obj\Debug\ErrorsAndExceptionsEx2_FlorabelIturalde07272020.pdb

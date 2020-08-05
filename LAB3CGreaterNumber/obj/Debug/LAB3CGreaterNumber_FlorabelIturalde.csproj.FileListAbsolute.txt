@@ -1,0 +1,6 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\obj\Debug\LAB3CGreaterNumber_FlorabelIturalde.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\bin\Debug\LAB3CGreaterNumber.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\bin\Debug\LAB3CGreaterNumber.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\bin\Debug\LAB3CGreaterNumber.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\obj\Debug\LAB3CGreaterNumber.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\LAB3CGreaterNumber\obj\Debug\LAB3CGreaterNumber.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleMethod_FlorabelIturalde07222020", "RectangleMethod_FlorabelIturalde07222020.csproj", "{A1FEF105-F3B8-4CEB-87A8-54438201EDE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FEF105-F3B8-4CEB-87A8-54438201EDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FEF105-F3B8-4CEB-87A8-54438201EDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FEF105-F3B8-4CEB-87A8-54438201EDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FEF105-F3B8-4CEB-87A8-54438201EDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A33E94F-1DA3-4D16-9896-DE1460C1CDF3}
+	EndGlobalSection
+EndGlobal
