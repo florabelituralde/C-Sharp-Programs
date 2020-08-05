@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\bin\Debug\Average_a_Specific_Number_of_Scores.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\bin\Debug\Average_a_Specific_Number_of_Scores.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\bin\Debug\Average_a_Specific_Number_of_Scores.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\obj\Debug\Average_a_Specific_Number_of_Scores.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\obj\Debug\Average_a_Specific_Number_of_Scores.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\obj\Debug\Average_a_Specific_Number_of_Scores.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_a_Specific_Number_of_Scores\obj\Debug\Average_a_Specific_Number_of_Scores.pdb

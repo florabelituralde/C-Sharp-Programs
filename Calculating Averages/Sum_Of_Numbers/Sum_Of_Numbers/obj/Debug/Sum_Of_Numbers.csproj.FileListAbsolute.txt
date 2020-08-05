@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\bin\Debug\Sum_Of_Numbers.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\bin\Debug\Sum_Of_Numbers.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\bin\Debug\Sum_Of_Numbers.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\obj\Debug\Sum_Of_Numbers.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\obj\Debug\Sum_Of_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\obj\Debug\Sum_Of_Numbers.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Sum_Of_Numbers\Sum_Of_Numbers\obj\Debug\Sum_Of_Numbers.pdb

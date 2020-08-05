@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\bin\Debug\Average_of_Ten_Scores.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\bin\Debug\Average_of_Ten_Scores.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\bin\Debug\Average_of_Ten_Scores.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\obj\Debug\Average_of_Ten_Scores.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\obj\Debug\Average_of_Ten_Scores.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\obj\Debug\Average_of_Ten_Scores.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\Assignments\Calculating Averages\Average_of_Ten_Scores\obj\Debug\Average_of_Ten_Scores.pdb
