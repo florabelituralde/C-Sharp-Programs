@@ -1,0 +1,7 @@
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\bin\Debug\AddTwoIntegers_IturaldeFlorabel07152020.exe.config
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\bin\Debug\AddTwoIntegers_IturaldeFlorabel07152020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\bin\Debug\AddTwoIntegers_IturaldeFlorabel07152020.pdb
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\obj\Debug\AddTwoIntegers_IturaldeFlorabel07152020.csprojAssemblyReference.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\obj\Debug\AddTwoIntegers_IturaldeFlorabel07152020.csproj.CoreCompileInputs.cache
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\obj\Debug\AddTwoIntegers_IturaldeFlorabel07152020.exe
+C:\Users\flora\OneDrive\Week 1 MSSA\C# Codes\AddTwoIntegers_IturaldeFlorabel07152020\obj\Debug\AddTwoIntegers_IturaldeFlorabel07152020.pdb
