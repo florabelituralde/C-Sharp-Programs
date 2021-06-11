@@ -1,0 +1,16 @@
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.exe
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.deps.json
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.runtimeconfig.json
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.runtimeconfig.dev.json
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.dll
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\ref\StringAlgorithms.dll
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\bin\Debug\net5.0\StringAlgorithms.pdb
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.csprojAssemblyReference.cache
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.AssemblyInfoInputs.cache
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.AssemblyInfo.cs
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.dll
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\ref\StringAlgorithms.dll
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.pdb
+C:\Users\flora\source\repos\florabelituralde\C-Sharp-Programs\StringAlgorithms\obj\Debug\net5.0\StringAlgorithms.genruntimeconfig.cache
