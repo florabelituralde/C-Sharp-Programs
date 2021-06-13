@@ -13,7 +13,7 @@ namespace StringAlgorithms
             StringAlgorithms stringAlgorithms = new StringAlgorithms();
 
             Console.WriteLine("Reversed with While Loop: " + stringAlgorithms.ReverseSentenceWithWhileLoop(sentence),"\n");
-            Console.WriteLine("Reversed with Foreach Loop: " + stringAlgorithms.ReverseSentenceWithForLoop(sentence), "\n");
+            Console.WriteLine("Reversed with For Loop: " + stringAlgorithms.ReverseSentenceWithForLoop(sentence), "\n");
             Console.WriteLine("Reverse Words with While Loop: " + stringAlgorithms.ReverseWordsWithWhileLoop(sentence), "\n");
             Console.WriteLine("Reverse Words with For Loop: " + stringAlgorithms.ReverseWordsWithForLoop(sentence), "\n");
 
